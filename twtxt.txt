@@ -2,3 +2,4 @@
 2025-06-04T20:27:21+01:00	If you're reading this, I am surprised.. and amused.
 2025-06-04T20:32:41+01:00	Turns out, onlooker's order of boot can cause the CTL monitoring to fail, only took me two weeks to sort that...
 2025-06-04T20:48:02+01:00	Right, that's fixed, and I've moved this to cloudflare's pages, so I don't need to worry about hosting. Good night
+2025-06-23T19:19:00+01:00	Bit of work on onlooker, with my buddy Tib-tabs
